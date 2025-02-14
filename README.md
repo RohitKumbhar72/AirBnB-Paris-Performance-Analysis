@@ -4,7 +4,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 ## Project Link
 
-[AirBnB Impact of Regulations](https://www.kaggle.com/code/rohitkumbhar72/airbnb-paris-performance-analysis)
+[AirBnB Impact of Regulations on Paris](https://www.kaggle.com/code/rohitkumbhar72/airbnb-paris-performance-analysis)
 
 <img src="https://jayvas.com/wp-content/uploads/2020/11/airbnb-real-estate-company.jpg" width=1000>
 
